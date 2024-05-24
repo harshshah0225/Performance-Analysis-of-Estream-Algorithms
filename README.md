@@ -1,2 +1,2 @@
 # Performance Analysis of Estream Algorithms
- 
+In this study, Python is used on a Windows computer to analyze the performance of the HC-128 and Salsa20/12 eSTREAM algorithms. Assessment of the algorithms' throughput and latency under a variety of circumstances, such as different message sizes and key lengths has been carried out. The networking and cryptography package, which offers a practical interface to cryptographic primitives, is used to create the algorithms. To complete the performance analysis, variables including execution time, code size, CPU utilization, and memory usage are analyzed.
